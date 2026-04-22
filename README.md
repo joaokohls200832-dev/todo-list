@@ -1,25 +1,18 @@
-Portfólio - João Kohls
+ Todo List
 
-Bem-vindo ao meu portfólio de projetos.
+Aplicação de lista de tarefas desenvolvida com HTML, CSS e JavaScript.
 
-Sou estudante do 3º ano do curso Técnico em Informática para Internet no Instituto Federal (Campus Gravataí), com foco em desenvolvimento web.
+  Funcionalidades:
+- Adicionar tarefas
+- Remover tarefas
+- Marcar tarefas como concluídas
 
-Projetos: todo-list
-
-Controle de Estoque
-
-🔗 https://github.com/joaokohls200832-dev/controle-estoque
-Sistema simples para gerenciamento de estoque utilizando JavaScript.
-
-Tecnologias utilizadas
-
-* HTML
-* CSS
-* JavaScript
+  Tecnologias utilizadas:
+- HTML
+- CSS
+- JavaScript
 
 
-Contato
-
-* Email: joaokohls200832@gmail.com 
-* LinkedIn: 
-* GitHub: https://github.com/joaokohls200832-dev
+Autor
+Joao Kohls  
+🔗 https://github.com/joaokohls200832-dev
