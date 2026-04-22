@@ -6,7 +6,7 @@ Aplicação de lista de tarefas desenvolvida com HTML, CSS e JavaScript.
 - Adicionar tarefas
 - Remover tarefas
 - Marcar tarefas como concluídas
-
+- 
   Tecnologias utilizadas:
 - HTML
 - CSS
